@@ -74,6 +74,3 @@ if __name__ == "__main__":
         
         # Show plot
         plt.show()
-
-#TEST COMMENT
-#test comment 2
